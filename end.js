@@ -18,7 +18,7 @@ saveHighScore = (e) => {
     e.preventDefault();
 
     const score = {
-        score: score
+        score: mostRecentScores:
         name: username.value
     };
     highScores.push(score);
